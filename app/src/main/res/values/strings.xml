@@ -6,4 +6,6 @@
     <string name="button_equal">Equals</string>
     <string name="button_higher">Higher</string>
     <string name="last_throw">Last throw: %d</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="correct">Correct</string>
 </resources>
