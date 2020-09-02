@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MadLevel1Task1</string>
+    <string name="top_text">Guess if the next throw is going to be lower, equel or higher.</string>
+</resources>
